@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Muli&display=swap");
 
 :root {
-    --line-border-fill: #3498db;
+    --line-border-fill: rgb(228, 189, 19);
     --line-border-empty: #e0e0e0;
 }
 
