@@ -2,8 +2,8 @@
 
 ## Expanding Cards
 
-<a href="https://js-projects-git-expanding-cards-git-hannah.vercel.app/">Look</a>
+<a href="https://js-projects-git-expanding-cards-git-hannah.vercel.app/" target="_blank">Look</a>
 
 ## Progress Steps
 
-<a href="https://js-projects-git-progress-steps-git-hannah.vercel.app/">Look</a>
+<a href="https://js-projects-git-progress-steps-git-hannah.vercel.app/" target="_blank">Look</a>
