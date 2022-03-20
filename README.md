@@ -11,3 +11,7 @@
 ## Rotating Navigation
 
 <a href="https://js-projects-git-rotating-navigation-git-hannah.vercel.app/" target="_blank">Look</a>
+
+## Hidden Search Widget
+
+<a href="https://js-projects-git-hidden-search-widget-git-hannah.vercel.app/" target="_blank">Look</a>
