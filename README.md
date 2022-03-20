@@ -18,5 +18,5 @@
 
 ## Blurry Loading
 
-<a href="hhttps://js-projects-git-blurry-loading-git-hannah.vercel.app/" 
-target="_blank">Look</a>
+<a href="hhttps://js-projects-git-blurry-loading-git-hannah.vercel.app/" target="_blank">Look</a>
+
