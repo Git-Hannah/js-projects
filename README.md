@@ -15,3 +15,8 @@
 ## Hidden Search Widget
 
 <a href="https://js-projects-git-hidden-search-widget-git-hannah.vercel.app/" target="_blank">Look</a>
+
+## Blurry Loading
+
+<a href="hhttps://js-projects-git-blurry-loading-git-hannah.vercel.app/" 
+target="_blank">Look</a>
