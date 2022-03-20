@@ -18,5 +18,8 @@
 
 ## Blurry Loading
 
-<a href="hhttps://js-projects-git-blurry-loading-git-hannah.vercel.app/" target="_blank">Look</a>
+<a href="https://js-projects-git-blurry-loading-git-hannah.vercel.app/" target="_blank">Look</a>
 
+## Scroll Animation
+
+<a href="https://js-projects-git-scroll-animation-git-hannah.vercel.app/" target="_blank">Look</a>
