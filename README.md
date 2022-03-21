@@ -23,3 +23,7 @@
 ## Scroll Animation
 
 <a href="https://js-projects-git-scroll-animation-git-hannah.vercel.app/" target="_blank">Look</a>
+
+## Split Landing Page
+
+<a href="https://js-projects-git-split-landing-page-git-hannah.vercel.app/" target="_blank">Look</a>
