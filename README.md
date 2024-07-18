@@ -1,9 +1,5 @@
 # These are my JavaScript Projects!
 
-Follow the links for the show
-
-Select the branches for the code
-
 ## Expanding Cards
 
 <a href="https://js-projects-git-expanding-cards-git-hannah.vercel.app/" target="_blank">Look</a>
